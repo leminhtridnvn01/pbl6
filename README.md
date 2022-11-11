@@ -1,1 +1,1 @@
-pbl6
+# rabbitmq-template
